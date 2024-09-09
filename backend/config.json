@@ -1,0 +1,9 @@
+{
+  "HOST": "http://localhost:5000",
+  "NAMESPACE": "default",
+  "VERSION": "1.0.0",
+  "SIGNING_KEY": "0xYourSigningKey",
+  "SIMPLE_STORAGE_ADDRESS": "0xYourSimpleStorageAddress",
+  "TOKEN_ADDRESS": "0xYourTokenAddress",
+  "PORT": 3000
+}
